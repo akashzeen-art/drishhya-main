@@ -49,7 +49,7 @@ export const TopPicksSection = () => {
               <h3 className="text-xs sm:text-sm font-bebas tracking-wider line-clamp-2 text-white px-0.5">{item.title}</h3>
               <div className="flex items-center gap-1 mt-0.5 px-0.5">
                 <Star size={10} className="fill-yellow-400 text-yellow-400" />
-                <span className="font-orbitron text-[9px] text-gray-500">Desi Content</span>
+                <span className="font-orbitron text-[9px] text-gray-500"> Content</span>
               </div>
             </motion.div>
           ))}

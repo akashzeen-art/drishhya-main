@@ -85,7 +85,7 @@ export const FeaturedSection = () => {
               className="mt-4"
             >
               <h3 className="text-2xl font-bebas tracking-wider">{currentItem.title}</h3>
-              <p className="text-sm text-gray-400 font-orbitron mt-1">Desi Content</p>
+              <p className="text-sm text-gray-400 font-orbitron mt-1"> Content</p>
             </motion.div>
           </div>
 
@@ -106,7 +106,7 @@ export const FeaturedSection = () => {
                     <img src={item.image} alt={item.title} className="w-16 h-9 rounded object-cover flex-shrink-0" />
                     <div className="text-left flex-1">
                       <p className="font-bebas text-sm tracking-wide">{item.title}</p>
-                      <p className="text-xs text-gray-400 font-orbitron">Desi Content</p>
+                      <p className="text-xs text-gray-400 font-orbitron"> Content</p>
                     </div>
                   </div>
                 </motion.button>

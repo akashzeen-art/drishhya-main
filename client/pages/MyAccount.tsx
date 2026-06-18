@@ -58,7 +58,7 @@ const MyAccount = () => {
                 </div>
 
                 <p className="text-center text-gray-500 text-xs font-orbitron">
-                  Enjoy unlimited Desi content 🎬
+                  Enjoy unlimited  content 🎬
                 </p>
               </>
             ) : (

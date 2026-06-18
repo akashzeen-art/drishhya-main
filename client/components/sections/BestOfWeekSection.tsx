@@ -40,7 +40,7 @@ export const BestOfWeekSection = () => {
             </div>
           </div>
           <h3 className="text-xs sm:text-sm font-bebas tracking-wider line-clamp-2 text-white">{item.title}</h3>
-          <p className="text-[10px] text-gray-400 font-orbitron mt-0.5">Desi Content</p>
+          <p className="text-[10px] text-gray-400 font-orbitron mt-0.5"> Content</p>
         </div>
       </motion.div>
     ))}

@@ -123,7 +123,7 @@ export const Preloader = ({ onComplete }: { onComplete: () => void }) => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.5, duration: 0.6 }}
             >
-              Premium Desi Entertainment
+              Premium  Entertainment
             </motion.p>
           </motion.div>
 

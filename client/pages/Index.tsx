@@ -66,7 +66,7 @@ const Index = () => {
 
       {/* 14. Desi Content Universe - portrait thumbnails 81-92 */}
       <GridCollectionSection
-        title="DESI CONTENT UNIVERSE"
+        title=" CONTENT UNIVERSE"
         description="Cooking & Entertainment"
         accentColor="orange"
         startIndex={80}

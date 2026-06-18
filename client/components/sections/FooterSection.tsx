@@ -22,7 +22,7 @@ export const FooterSection = () => {
 
           <motion.p initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ delay: 0.2, duration: 0.6 }}
             className="text-gray-500 text-sm font-orbitron tracking-widest mb-8">
-            PREMIUM DESI ENTERTAINMENT
+            PREMIUM  ENTERTAINMENT
           </motion.p>
 
           <motion.div initial={{ opacity: 0 }} whileInView={{ opacity: 1 }} transition={{ delay: 0.3 }}
