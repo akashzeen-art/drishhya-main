@@ -16,7 +16,7 @@ export const FooterSection = () => {
 
           <motion.div initial={{ opacity: 0, y: 20 }} whileInView={{ opacity: 1, y: 0 }} transition={{ duration: 0.7 }}
             className="flex justify-center mb-1">
-            <img src="/logo.png" alt="Bharat TV" className="h-16 w-auto object-contain"
+            <img src="/logo.png" alt="DRISHHYA" className="h-16 w-auto object-contain"
               style={{ filter: 'drop-shadow(0 0 20px rgba(168,85,247,0.5))' }} />
           </motion.div>
 

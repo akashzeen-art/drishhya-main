@@ -110,7 +110,7 @@ export const SubscriptionModal = () => {
                     <Phone size={17} className="text-white" />
                   </div>
                   <div>
-                    <p className="font-bebas text-lg tracking-widest text-white leading-none">Bharat TV</p>
+                    <p className="font-bebas text-lg tracking-widest text-white leading-none">DRISHHYA</p>
                     <p className="font-orbitron text-[9px] text-purple-400 tracking-widest">SIGN IN</p>
                   </div>
                 </div>
@@ -261,7 +261,7 @@ export const SubscriptionModal = () => {
                   <Check size={28} className="text-white" strokeWidth={3} />
                 </motion.div>
                 <h2 className="font-bebas text-3xl text-white tracking-wider mb-2">You're In!</h2>
-                <p className="text-gray-400 text-sm mb-1">Welcome to Bharat TV</p>
+                <p className="text-gray-400 text-sm mb-1">Welcome to DRISHHYA</p>
                 <p className="text-purple-400 font-orbitron text-xs">Enjoy unlimited content 🎬</p>
               </motion.div>
             )}

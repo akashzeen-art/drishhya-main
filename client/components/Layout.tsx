@@ -89,7 +89,7 @@ export const Layout = ({ children }: { children: React.ReactNode }) => {
         >
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-24 flex items-center justify-between">
             <Link to="/" className="group flex items-center gap-2">
-              <img src="/logo.png" alt="Bharat TV" className="h-20 w-auto object-contain" style={{ filter: 'drop-shadow(0 0 12px rgba(168,85,247,0.6))' }} />
+              <img src="/logo.png" alt="DRISHHYA" className="h-20 w-auto object-contain" style={{ filter: 'drop-shadow(0 0 12px rgba(168,85,247,0.6))' }} />
             </Link>
             <button
               onClick={() => setMenuOpen(o => !o)}
@@ -186,7 +186,7 @@ export const Layout = ({ children }: { children: React.ReactNode }) => {
 
                 <div className="px-5 py-4 border-t" style={{ borderColor: 'rgba(255,255,255,0.05)' }}>
                   <p className="font-orbitron text-[9px] text-center tracking-widest" style={{ color: 'rgba(255,255,255,0.2)' }}>
-                    © 2026 BHARAT TV
+                    © 2026 DRISHHYA
                   </p>
                 </div>
                 <div className="h-px" style={{ background: 'linear-gradient(90deg, transparent, rgba(236,72,153,0.4), transparent)' }} />

@@ -49,7 +49,7 @@ export const VideoPlayer = () => {
           >
             {/* Logo + title */}
             <div className="flex items-center gap-3 min-w-0">
-              <img src="/logo.png" alt="Bharat TV" className="h-8 w-auto object-contain flex-shrink-0"
+              <img src="/logo.png" alt="DRISHHYA" className="h-8 w-auto object-contain flex-shrink-0"
                 style={{ filter: 'drop-shadow(0 0 6px rgba(168,85,247,0.5))' }} />
               <div className="min-w-0">
                 <p className="font-bebas text-base sm:text-lg tracking-wider text-white truncate leading-none">

@@ -114,7 +114,7 @@ export const Preloader = ({ onComplete }: { onComplete: () => void }) => {
                 filter: 'drop-shadow(0 0 24px rgba(168,85,247,0.6))',
               }}
             >
-              Bharat TV
+              DRISHHYA
             </h1>
             <motion.p
               className="font-orbitron text-[10px] tracking-[0.45em] mt-2 uppercase"
