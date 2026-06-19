@@ -60,10 +60,28 @@ const ContactUs = () => {
 
               <div className="border-t border-white/5" />
 
+              <div className="flex items-start gap-4 px-6 py-5">
+                <span className="text-xl leading-none mt-0.5">📞</span>
+                <div>
+                  <p className="text-gray-500 font-orbitron text-[10px] uppercase tracking-widest mb-1">Phone</p>
+                  <p className="text-gray-200 text-sm leading-relaxed">
+                    <a href="tel:+918929728030" className="text-purple-400 hover:underline">
+                      +91 89297 28030
+                    </a>
+                  </p>
+                </div>
+              </div>
+
+              <div className="border-t border-white/5" />
+
               <div className="px-6 py-5">
                 <p className="text-white font-semibold text-sm mb-1">Send Us a Message</p>
                 <p className="text-gray-400 text-sm leading-relaxed">
-                  Need faster support? Email us at{' '}
+                  Need faster support? Call us at{' '}
+                  <a href="tel:+918929728030" className="text-purple-400 hover:underline">
+                    +91 89297 28030
+                  </a>{' '}
+                  or email{' '}
                   <a href="mailto:info@fortedigitalsolutions.com" className="text-purple-400 hover:underline">
                     info@fortedigitalsolutions.com
                   </a>{' '}
