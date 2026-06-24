@@ -52,7 +52,7 @@ const MyAccount = () => {
                     <CheckCircle size={15} className="text-purple-400 flex-shrink-0" />
                     <div>
                       <p className="text-gray-500 font-orbitron text-[9px] uppercase tracking-widest">Plan</p>
-                      <p className="text-white text-sm font-orbitron capitalize">{plan} — ₹{plan === 'weekly' ? '79' : '179'}</p>
+                      <p className="text-white text-sm font-orbitron capitalize whitespace-nowrap tabular-nums">{plan} — ₹{plan === 'weekly' ? '79' : '179'}</p>
                     </div>
                   </div>
                 </div>

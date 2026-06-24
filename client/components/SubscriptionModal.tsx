@@ -210,9 +210,9 @@ export const SubscriptionModal = () => {
                               <p className="text-gray-400 text-[11px] font-orbitron">{plan.desc}</p>
                             </div>
                           </div>
-                          <div className="text-right">
-                            <p className="font-bebas text-2xl text-white leading-none">₹{plan.price}</p>
-                            <p className="text-gray-500 text-xs line-through font-orbitron">₹{plan.original}</p>
+                          <div className="text-right flex-shrink-0 min-w-[4.5rem] pl-2" style={{ paddingRight: selected ? '1.5rem' : 0 }}>
+                            <p className="font-bebas text-2xl text-white leading-none whitespace-nowrap tabular-nums">₹{plan.price}</p>
+                            <p className="text-gray-500 text-xs line-through font-orbitron whitespace-nowrap tabular-nums">₹{plan.original}</p>
                           </div>
                         </div>
                         {/* Selected indicator */}
